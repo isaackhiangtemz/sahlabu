@@ -1,4 +1,369 @@
 [
-  {"number":1,"title":"Sample Hymn","lyrics":[{"type":"verse","number":1,"lines":["Hei hi sample hla thu te chu.","I hla dik tak chu hetah hian i dah ang."]},{"type":"chorus","lines":["CHORUS sample text.","Mizo Byma hla lyrics dik tak nen replace rawh."]}]},
-  {"number":2,"title":"Sample Hymn 2","lyrics":[{"type":"verse","number":1,"lines":["Sample verse for SAHLABU."]}]}
+  {
+    "number": 1,
+    "title": "Aw Lal, Ka Thinlung Hmang Rawh",
+    "lyrics": [
+      {
+        "type": "verse",
+        "number": 1,
+        "lines": [
+          "Aw Lal, ka thinlung hi i hnenah ka hlan e.",
+          "Ni tin min kaihhruai la, i kawngah min kalpui rawh.",
+          "I hmangaihna chu ka chakna a ni.",
+          "I hnenah ka rinawm reng ang."
+        ]
+      },
+      {
+        "type": "chorus",
+        "lines": [
+          "Lalpa, min awmpui rawh,",
+          "I thlarauvin min hruai rawh.",
+          "Ka nun hi i tan ka hlan e,",
+          "I hming chu ka fak ang."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "lines": [
+          "Hun nuam leh hun harsatnaah min awmpui la.",
+          "Ka hlauh chuan i thuin min thlamuan rawh.",
+          "Ni thar tin i khawngaihna ka hmu.",
+          "I hnenah ka lawm thin."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Isua Ka Hmuang",
+    "lyrics": [
+      {
+        "type": "verse",
+        "number": 1,
+        "lines": [
+          "Isua ka hmuang, ka nunah eng a ni.",
+          "A hmangaihna chu ka thinlungah a awm.",
+          "A thu chu ka nunin ka zui ang.",
+          "A hnenah ka muang reng ang."
+        ]
+      },
+      {
+        "type": "chorus",
+        "lines": [
+          "Isua, Isua, min hruai rawh.",
+          "I hmangaihna chu min tichak rawh.",
+          "Ni tin i hnenah ka kal ang.",
+          "Ka Lal leh ka Chhandamtu i ni."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Lalpa Hnenah Ka Kal",
+    "lyrics": [
+      {
+        "type": "verse",
+        "number": 1,
+        "lines": [
+          "Lalpa hnenah ka kal, ka thinlung ka hlan.",
+          "Ka thil tih zawng zawngah i duhzawng ka zawng.",
+          "I thu chu ka kawhhmuh tur a ni.",
+          "I hnenah ka him reng ang."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "lines": [
+          "Khawvel thim pawhin min chhawk lovang.",
+          "I eng chu ka hmaah a tle ang.",
+          "Rinna nen ka kal zel ang.",
+          "I kutah ka nun ka dah."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Khawngaihna Avangin",
+    "lyrics": [
+      {
+        "type": "verse",
+        "number": 1,
+        "lines": [
+          "Khawn ngaihna avangin ni tin ka nung.",
+          "Ka sualna chu i zahngaihna-in min tlansak.",
+          "Thil thar ka ni tawh, i hnenah ka awm.",
+          "Lalpa, i hming chu fak rawh se."
+        ]
+      },
+      {
+        "type": "chorus",
+        "lines": [
+          "Khawn ngaihna, khawn ngaihna,",
+          "Ka nunah a luang reng.",
+          "I hmangaihna chu a tawp ngai lo,",
+          "Ka thinlungin ka fak ang."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "I Hming Chu Thianghlim",
+    "lyrics": [
+      {
+        "type": "verse",
+        "number": 1,
+        "lines": [
+          "I hming chu thianghlim, chungnung ber i ni.",
+          "Lei leh van zawng zawngin i hming an fak.",
+          "Ka awmna zawngah i thu ka puang ang.",
+          "I hnenah ka lawm e."
+        ]
+      },
+      {
+        "type": "chorus",
+        "lines": [
+          "Halleluiah, i hming chu fak rawh se.",
+          "Halleluiah, i hmangaihna chu ropui e.",
+          "Ka nun pum puiah ka fak ang.",
+          "Lalpa, i hming chu thianghlim e."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Ka Rinna Iah Hlen",
+    "lyrics": [
+      {
+        "type": "verse",
+        "number": 1,
+        "lines": [
+          "Ka rinna hi ni tin tihchak zel rawh.",
+          "Harsatna hunah pawh min tlansan suh.",
+          "I thu chu ka lungphum a ni.",
+          "I thu-ah ka ding tlat ang."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "lines": [
+          "Thil engmah ka hre loh hunah pawh",
+          "I kawng min hriattir zel ang.",
+          "I hnenah ka inpek tlat ang.",
+          "I khawngaihna chu ka beisei."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "title": "An Leng Za Tawh Ang",
+    "lyrics": [
+      {
+        "type": "verse",
+        "number": 1,
+        "lines": [
+          "He hla hi example data a ni.",
+          "Actual hymn lyrics chu nakinah hetah hian replace theih a ni.",
+          "SAHLABU-ah hla tin hi i duh danin siam leh theih a ni."
+        ]
+      },
+      {
+        "type": "chorus",
+        "lines": [
+          "Example chorus hi a ni.",
+          "Hla dik tak nen replace rawh."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Thlarau Thianghlim Min Hruai",
+    "lyrics": [
+      {
+        "type": "verse",
+        "number": 1,
+        "lines": [
+          "Thlarau Thianghlim, min hruai zel rawh.",
+          "Ka rilru leh ka thinlung min tihthar rawh.",
+          "I thu-ah min zirtir la,",
+          "Lalpa duh zawngin min kalpui rawh."
+        ]
+      },
+      {
+        "type": "chorus",
+        "lines": [
+          "Min hruai rawh, min hruai rawh,",
+          "Ni tin i hnenah min hruai rawh.",
+          "Ka nun hi i tan ka hlan e.",
+          "Thlarau Thianghlim, min hruai rawh."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Lalpa Ka Fak Ang",
+    "lyrics": [
+      {
+        "type": "verse",
+        "number": 1,
+        "lines": [
+          "Lalpa ka fak ang, ka thinlung pum puia.",
+          "A khawngaihna chu a tawp ngai lo.",
+          "Ni tin min enkawl a, min humhim thin.",
+          "Chuvangin ka fak reng ang."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "lines": [
+          "Ka lawmna leh ka lungngaihna zawng zawngah",
+          "I hnenah ka sawi thei e.",
+          "I hmangaihna chu ka beiseina a ni.",
+          "Lalpa, ka hnenah awm rawh."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Rinna Kawngah",
+    "lyrics": [
+      {
+        "type": "verse",
+        "number": 1,
+        "lines": [
+          "Rinna kawngah hma ka sawn zel ang.",
+          "Hma lam chu ka en ang, nungchang ka siam ang.",
+          "Isua thu chu ka nunah ka lantir ang.",
+          "A hmangaihna chu ka puang ang."
+        ]
+      },
+      {
+        "type": "chorus",
+        "lines": [
+          "Rinna kawngah, rinna kawngah,",
+          "Lalpa nen ka kal zel ang.",
+          "Harsatna pawh ka hlau lo vang,",
+          "A kutah ka muang ang."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "title": "I Hmangaihna Ka Hria",
+    "lyrics": [
+      {
+        "type": "verse",
+        "number": 1,
+        "lines": [
+          "I hmangaihna ka hria, ka nunah ka hmu.",
+          "Ka chak loh hunah min tichak thin.",
+          "Ka kalna zawngah min awmpui la.",
+          "I hnenah ka lawm e."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Vanram Beiseina",
+    "lyrics": [
+      {
+        "type": "verse",
+        "number": 1,
+        "lines": [
+          "Vanram beiseina chu ka thinlungah a awm.",
+          "Chatuan nun chu ka beisei reng ang.",
+          "Khawvel thil hi a liam zel a,",
+          "Lalpa thu erawh a ding tlat."
+        ]
+      },
+      {
+        "type": "chorus",
+        "lines": [
+          "Vanram beiseina, eng ropui tak e.",
+          "Lalpa nen chatuan kan awm ang.",
+          "Rinna chu ka vawikhat loh ang,",
+          "Ka beiseina chu Amah a ni."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "title": "I Thu Ka Zui Ang",
+    "lyrics": [
+      {
+        "type": "verse",
+        "number": 1,
+        "lines": [
+          "I thu ka zui ang, ka nunah ka lantir ang.",
+          "Thutak kawngah min kaihhruai zel rawh.",
+          "Mi dangte tan malsawmna ka nih theih nan",
+          "Ka nun hi i kutah ka hlan."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "title": "Beram No Kan Fak Ang",
+    "lyrics": [
+      {
+        "type": "verse",
+        "number": 1,
+        "lines": [
+          "Beram No, i hnenah kan fak e.",
+          "I hmangaihna avangin kan lawm e.",
+          "Ralthuam zawng zawng i hneh tawh.",
+          "I hming chu chungnung ber a ni."
+        ]
+      },
+      {
+        "type": "chorus",
+        "lines": [
+          "Fakna leh ropuina i tan ni rawh se.",
+          "Chatuan chatuanah kan fak ang.",
+          "Beram No, kan Lal i ni.",
+          "I hnenah kan lawm reng ang."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "title": "Kum Tinin I Hnenah",
+    "lyrics": [
+      {
+        "type": "verse",
+        "number": 1,
+        "lines": [
+          "Kum tinin i khawngaihna ka hmu.",
+          "Hun tin i kutin min enkawl.",
+          "Ka hun kalta chu ka lawm e,",
+          "Ka hmalam chu i hnenah ka hlan."
+        ]
+      },
+      {
+        "type": "chorus",
+        "lines": [
+          "I hnenah, i hnenah,",
+          "Ka nun zawng zawng ka hlan e.",
+          "I duhzawng chu ka zawng ang,",
+          "Lalpa, min awmpui rawh."
+        ]
+      }
+    ]
+  }
 ]
