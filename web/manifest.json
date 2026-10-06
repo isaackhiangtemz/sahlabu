@@ -1,0 +1,9 @@
+{
+  "name": "SAHLABU",
+  "short_name": "SAHLABU",
+  "start_url": "/sahlabu/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1565C0",
+  "description": "Mizo Christian Hymn Book"
+}
