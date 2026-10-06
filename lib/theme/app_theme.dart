@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-class AppTheme {
-  static final light=ThemeData(useMaterial3:true,brightness:Brightness.light,colorSchemeSeed:Colors.indigo);
-  static final dark=ThemeData(useMaterial3:true,brightness:Brightness.dark,colorSchemeSeed:Colors.indigo);
+const sahlabuTeal=Color(0xFF087C82);
+class AppTheme{
+ static final light=ThemeData(useMaterial3:true,brightness:Brightness.light,colorScheme:ColorScheme.fromSeed(seedColor:sahlabuTeal));
+ static final dark=ThemeData(useMaterial3:true,brightness:Brightness.dark,colorScheme:ColorScheme.fromSeed(seedColor:sahlabuTeal,brightness:Brightness.dark));
 }
