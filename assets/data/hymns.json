@@ -1,0 +1,4 @@
+[
+  {"number":1,"title":"Sample Hymn","lyrics":[{"type":"verse","number":1,"lines":["Hei hi sample hla thu te chu.","I hla dik tak chu hetah hian i dah ang."]},{"type":"chorus","lines":["CHORUS sample text.","Mizo Byma hla lyrics dik tak nen replace rawh."]}]},
+  {"number":2,"title":"Sample Hymn 2","lyrics":[{"type":"verse","number":1,"lines":["Sample verse for SAHLABU."]}]}
+]
