@@ -1,0 +1,41 @@
+[
+  {
+    "id": "sample-001",
+    "number": "001",
+    "title": "Sample Hymn 001",
+    "category": "Praise",
+    "language": "Mizo",
+    "verses": ["Replace this text with your authorized first verse."],
+    "chorus": "",
+    "solfa": "",
+    "musicNotes": "",
+    "originalKey": "C",
+    "attribution": "Add author, source, and permission details."
+  },
+  {
+    "id": "sample-002",
+    "number": "002",
+    "title": "Sample Hymn 002",
+    "category": "Worship",
+    "language": "Mizo",
+    "verses": ["Replace this text with your authorized first verse.", "Optional second verse goes here."],
+    "chorus": "Add an authorized chorus here, or leave this field empty.",
+    "solfa": "Add Solfa notation here if you have it.",
+    "musicNotes": "Example chord format: [C] [F] [G7] (bracketed chords transpose with the key).",
+    "originalKey": "C",
+    "attribution": "Add author, source, and permission details."
+  },
+  {
+    "id": "sample-003",
+    "number": "003",
+    "title": "Sample Hymn 003",
+    "category": "Devotion",
+    "language": "English",
+    "verses": ["Replace this text with your authorized first verse."],
+    "chorus": "",
+    "solfa": "d  r  m  f  | s  s  l  s",
+    "musicNotes": "",
+    "originalKey": "F",
+    "attribution": "Add author, source, and permission details."
+  }
+]
